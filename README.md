@@ -6,4 +6,5 @@ A extension of ProgressView which gives the activity function.
 Reference
 =========
 
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIProgressView_Class/index.html
+UIProgressView: https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIProgressView_Class/index.html
+UIActivityIndicatorView: https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivityIndicatorView_Class/index.html#//apple_ref/occ/cl/UIActivityIndicatorView
