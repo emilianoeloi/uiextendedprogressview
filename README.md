@@ -1,7 +1,7 @@
 UIExtendedProgressView
 ======================
 
-A extension of ProgressView which gives the activity function.
+A extension of ProgressView which gives the activityIndicator function.
 
 Reference
 =========
